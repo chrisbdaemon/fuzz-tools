@@ -1,0 +1,1 @@
+"/home/chris/NIST/argus/src/argus-clients-3.0.8.2/bin/ra -r /home/chris/NIST/argus/testcases/id:000392,sync:fuzz02,src:000409,+cov",ERROR,LeakSanitizer: detected memory leaks, Direct leak of 18 byte(s) in 1 object(s) allocated from:,0x7f10b43ae189,__GI___strdup,/usr/lib/libc.so.6+0x80189)
